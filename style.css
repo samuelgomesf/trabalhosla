@@ -189,3 +189,9 @@ box-shadow: 2px 2px 2px #000000;
 .marca{
     background-image: linear-gradient(to right, var(--cor04), var(--cor05));
 }
+#bio{
+    font-size: 40px;
+}
+.curiosidade{
+    font-size: 20px;
+}
